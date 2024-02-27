@@ -1,0 +1,3 @@
+rootProject.name = 'myStudy'
+include 'core-module'
+include 'schedule-module'
